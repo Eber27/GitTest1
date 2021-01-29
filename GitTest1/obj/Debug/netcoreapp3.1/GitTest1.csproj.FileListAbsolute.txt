@@ -1,0 +1,13 @@
+C:\Users\Johanna\Desktop\Repos\GitTest1\GitTest1\bin\Debug\netcoreapp3.1\GitTest1.exe
+C:\Users\Johanna\Desktop\Repos\GitTest1\GitTest1\bin\Debug\netcoreapp3.1\GitTest1.deps.json
+C:\Users\Johanna\Desktop\Repos\GitTest1\GitTest1\bin\Debug\netcoreapp3.1\GitTest1.runtimeconfig.json
+C:\Users\Johanna\Desktop\Repos\GitTest1\GitTest1\bin\Debug\netcoreapp3.1\GitTest1.runtimeconfig.dev.json
+C:\Users\Johanna\Desktop\Repos\GitTest1\GitTest1\bin\Debug\netcoreapp3.1\GitTest1.dll
+C:\Users\Johanna\Desktop\Repos\GitTest1\GitTest1\bin\Debug\netcoreapp3.1\GitTest1.pdb
+C:\Users\Johanna\Desktop\Repos\GitTest1\GitTest1\obj\Debug\netcoreapp3.1\GitTest1.csprojAssemblyReference.cache
+C:\Users\Johanna\Desktop\Repos\GitTest1\GitTest1\obj\Debug\netcoreapp3.1\GitTest1.AssemblyInfoInputs.cache
+C:\Users\Johanna\Desktop\Repos\GitTest1\GitTest1\obj\Debug\netcoreapp3.1\GitTest1.AssemblyInfo.cs
+C:\Users\Johanna\Desktop\Repos\GitTest1\GitTest1\obj\Debug\netcoreapp3.1\GitTest1.csproj.CoreCompileInputs.cache
+C:\Users\Johanna\Desktop\Repos\GitTest1\GitTest1\obj\Debug\netcoreapp3.1\GitTest1.dll
+C:\Users\Johanna\Desktop\Repos\GitTest1\GitTest1\obj\Debug\netcoreapp3.1\GitTest1.pdb
+C:\Users\Johanna\Desktop\Repos\GitTest1\GitTest1\obj\Debug\netcoreapp3.1\GitTest1.genruntimeconfig.cache
